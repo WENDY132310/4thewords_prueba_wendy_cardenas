@@ -1,6 +1,6 @@
 # Proyecto 4thewords_prueba
 
-Este proyecto es una API para gestionar registros de leyendas utilizando FastAPI y SQLAlchemy con una base de datos MySQL.
+Este proyecto es una API para gestionar registros de leyendas utilizando FastAPI y Sqlmoldel con una base de datos MySQL.
 
 ## Requisitos
 Los requisitos y tecnologias usados para el funcionamiento del programa estan relacionados por nombre y version en el archivo "requeriments.txt"
