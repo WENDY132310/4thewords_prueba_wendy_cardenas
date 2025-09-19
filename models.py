@@ -24,7 +24,7 @@ class Registro(SQLModel, table=True):
     nombre: str
     categoria: str
     descripcion: str
-    fecha: date
+    fecha: str
     provincia: str
     canton: str
     distrito: str
